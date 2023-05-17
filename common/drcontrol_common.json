@@ -1,0 +1,38 @@
+{
+    "url_list": {
+        "operation": "https://operation.deeproute.cn:9443"
+    },
+    "car_list": [
+        "YR_MKZ_1",
+        "YR_MKZ_2",
+        "YR_MKZ_3",
+        "YR_MKZ_4",
+        "YR_MKZ_5",
+        "YR_MKZ_6",
+        "YR_MKZ_7",
+        "YR_MKZ_8",
+        "YR_MKZ_9",
+        "YR_MKZ_10",
+        "YR_MKZ_11",
+        "YR_MKZ_12",
+        "YR_MKZ_13",
+        "YR_ALX_1",
+        "YR_ALX_2",
+        "YR_ALX_3",
+        "YR_ALX_4",
+        "YR_ALX_5",
+        "YR_ALX_6",
+        "YR_ALX_7",
+        "YR_ALX_8",
+        "YR_ALX_9",
+        "YR_ALX_10",
+        "YR_MAR_11",
+        "YR_MAR_13",
+        "YR_MAR_14",
+        "YR_MAR_15",
+        "YR_MAR_19",
+        "YR_MAR_23",
+        "YR_MAR_24",
+        "YR_MAR_30"
+    ]
+}
